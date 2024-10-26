@@ -13,4 +13,4 @@
     </em>
   </strong>
 </div> <br>
-<img src="https://skillicons.dev/icons?i=python,elixir,ruby,typescript,javascript,c,cpp,rust,go&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,elixir,ruby,typescript,javascript,php,c,cpp,rust,go&perline=5" />
