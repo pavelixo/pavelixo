@@ -14,5 +14,5 @@
   </strong>
 </div> <br>
 <img 
-  src="https://skillicons.dev/icons?i=python,elixir,ruby,typescript,javascript,php,c,cpp,rust,go,crystal,django,rails,laravel,fastapi,flask,vite,react,vue,solidjs,svelte,htmx,graphql,nginx,aws,firebase,cloudflare,tailwind,bootstrap,sass,webassembly,postgres,sqlite,mysql,mongodb,cassandra,elasticsearch,redis,rabbitmq,docker,grafana,anaconda,tensorflow,bash,git,neovim,vscode,arch,mint,windows,obsidian,notion,illustrator,figma,github&perline=15" 
+  src="https://skillicons.dev/icons?i=python,elixir,ruby,typescript,javascript,php,c,cpp,rust,go,crystal,django,rails,laravel,fastapi,flask,next,vite,react,vue,solidjs,svelte,htmx,graphql,nginx,aws,firebase,cloudflare,tailwind,bootstrap,sass,webassembly,postgres,sqlite,mysql,mongodb,cassandra,elasticsearch,redis,rabbitmq,docker,grafana,anaconda,tensorflow,bash,git,neovim,vscode,arch,mint,windows,obsidian,notion,illustrator,figma,github&perline=15" 
 />
